@@ -6,5 +6,5 @@ CMO:  Time Series Model (ARX + GARCH) to forecast FNMA and FHLMC Collateralized 
 
 CMBS: Time Series Model (ARX + GARCH) to forecast Commercial Mortgage Backed Securities' Spread to U.S. Treasuries
 
-LC_ChOff_code : Classification Models (Lasso Logistic Regression, K-Nearest Neighbors, Gradient Boosting) to predict Charged-Off Loans in Lending Club 
+LC_ChOff_code : Classification Models (Lasso Logistic Regression, K-Nearest Neighbors, Gradient Boosting) to predict Charged-Off Loans in Lending Club's Loan Portfolio 
                 (part of Kaggle's competition https://www.kaggle.com/husainsb/lendingclub-issued-loans )
