@@ -1,10 +1,10 @@
 # portfolio
- 
-CC_30: Time Series Model (ARX + GARCH) to forecast FNMA and FHLMC Mortgage Backed Securities; Current Coupon Spread to Primary Rate
+Time Series modeling to forecast spreads in agency mortgaged-backed securities (Fannie Mae and Ginnie Mae) over a benchmark interest rate (U.S. Treasury Bond yield).
+Feature selection is the key element to forecast rather than accurancy (e.g. Neural Network).
+Techniques used incluse stepwise regression, ARIMAX time series modeling, GARCH for volatility clustering.
 
-CMO:  Time Series Model (ARX + GARCH) to forecast FNMA and FHLMC Collateralized Mortgage Obligations' Spread to LIBOR
+- CC_30: Time Series Model (ARX + GARCH) to forecast FNMA and FHLMC Mortgage Backed Securities; Current Coupon Spread to Primary Rate
 
-CMBS: Time Series Model (ARX + GARCH) to forecast Commercial Mortgage Backed Securities' Spread to U.S. Treasuries
+- CMO:  Time Series Model (ARX + GARCH) to forecast FNMA and FHLMC Collateralized Mortgage Obligations' Spread to LIBOR
 
-LC_ChOff_code : Classification Models (Lasso Logistic Regression, K-Nearest Neighbors, Gradient Boosting) to predict Charged-Off Loans in Lending Club's Loan Portfolio 
-                (part of Kaggle's competition https://www.kaggle.com/husainsb/lendingclub-issued-loans )
+- CMBS: Time Series Model (ARX + GARCH) to forecast Commercial Mortgage Backed Securities' Spread to U.S. Treasuries
